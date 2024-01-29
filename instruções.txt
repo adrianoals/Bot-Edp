@@ -1,0 +1,11 @@
+Instruções para utilizar o programa
+
+1- Primeiro informe o caminho relativo da planilha que irá extrair a lista de condomínios. Exemplo: C:\Users\drili\Downloads
+
+2- Informe em qual aba da planilha irá extrair as informações.
+
+3- Aguarde o programa rodar.
+
+Obs: 
+- Ao digitar o caminho não coloque as aspas " "
+- A planilha deve manter uma configuração padrão para o programa poder ler e enteder a lista de condomínios.
